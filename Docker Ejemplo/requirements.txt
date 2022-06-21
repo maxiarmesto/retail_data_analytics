@@ -1,5 +1,5 @@
 python-utils 
-numpy==1.14.0
+numpy==1.22.0
 pandas==0.22.0  
 chardet==3.0.4
 ftfy==4.4.3 
